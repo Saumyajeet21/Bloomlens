@@ -1,4 +1,4 @@
-# 🌸 BloomLens
+#  BloomLens
 
 **BloomLens** is a web app that reads exam questions and automatically figures out which level of *Bloom's Taxonomy* each question belongs to — Remember, Understand, Apply, Analyze, Evaluate, or Create. It also runs sentiment analysis, discovers topic clusters, translates questions to Hindi, and can generate or rewrite questions using an AI language model.
 
