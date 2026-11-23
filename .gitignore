@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Models / cache (large, regenerable)
+models/checkpoints/
+.cache/
+
+# Data (don't commit raw datasets)
+data/raw/*.csv
+data/raw/*.json
+data/interim/
+
+# Reports data (keep structure, ignore generated)
+reports/tables/*.csv
+reports/figures/*.png
+reports/figures/*.html
+!reports/tables/.gitkeep
+!reports/figures/.gitkeep
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db

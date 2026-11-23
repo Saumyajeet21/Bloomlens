@@ -1,0 +1,26 @@
+question_id,text,action_verb,concept,marks,co_tag,bloom_level
+1,Define the term recursion in programming.,define,recursion,5,CO1,Remember
+2,List the properties of a binary search tree.,list,properties,5,CO1,Remember
+3,State the OSI model layers.,state,OSI model,5,CO1,Remember
+4,Name the components of a CPU.,name,components,5,CO1,Remember
+5,Explain how a stack data structure works.,explain,stack,5,CO2,Understand
+6,Describe the process of database normalization.,describe,normalization,5,CO2,Understand
+7,Summarize the differences between TCP and UDP.,summarize,differences,5,CO2,Understand
+8,Compare supervised and unsupervised learning.,compare,learning,5,CO2,Understand
+9,Apply dynamic programming to solve the knapsack problem.,apply,programming,10,CO3,Apply
+10,Implement a binary search algorithm.,implement,algorithm,10,CO3,Apply
+11,Calculate the time complexity of quicksort.,calculate,complexity,5,CO3,Apply
+12,Solve the following problem using graph theory.,solve,problem,10,CO3,Apply
+13,Analyze the time complexity of merge sort vs quick sort.,analyze,complexity,10,CO4,Analyze
+14,Differentiate between RISC and CISC architectures.,differentiate,architectures,10,CO4,Analyze
+15,Examine the causes of deadlock in operating systems.,examine,causes,10,CO4,Analyze
+16,Investigate the factors affecting network latency.,investigate,factors,10,CO4,Analyze
+17,Evaluate the trade-offs between SQL and NoSQL databases.,evaluate,trade-offs,10,CO5,Evaluate
+18,Justify your choice of one sorting algorithm over another.,justify,choice,10,CO5,Evaluate
+19,Assess the advantages and disadvantages of microservices.,assess,advantages,10,CO5,Evaluate
+20,Critique the given approach to load balancing.,critique,approach,10,CO5,Evaluate
+21,Design a fault-tolerant distributed caching system.,design,system,15,CO6,Create
+22,Create a machine learning pipeline for text classification.,create,pipeline,15,CO6,Create
+23,Develop a plan to implement a microservices architecture.,develop,plan,15,CO6,Create
+24,Propose a new method for anomaly detection.,propose,method,15,CO6,Create
+25,Construct an experiment to test cache performance.,construct,experiment,10,CO6,Create
